@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "prompt": "Hello,\n\nI hope you are well,\n\nI have just stumbled on your profile thanks to the algorithm and immediately checked out the blog as well. I have a good amount of reading to do but I have sure stumbled upon a small pile of gold for what I am looking for at the moment. It's great you are sharing your journey. I know everyone's different, but still great insight.\n\nIt is not unreasonable to assume that now you probably have a good number of cold contacts like these but I'll shoot my shot anyways. I will be attempting to get into ML Eng/Ops or Data Eng and wiggle my way through from a SD/SE. At some point in the near future, could I ask you to review and get feedback on my self-marketing, presentation and maybe get a sanity check on what my plans to achieve the above are?\n\nKind regards,\n\n",
+        "response": "Hey! Thanks for the kind words! You're welcome to post specific questions here if you'd like? 😊",
+        "metadata": {
+            "date": "2024-04-03",
+            "tags": ["career advice", "machine learning", "data engineering"],
+            "notes": "Initial inquiry about transitioning to ML Eng/Ops or Data Eng"
+        }
+    },
+    {
+        "id": 2,
+        "prompt": "Hi,\n\nYou're probably busy but I want to reach out to you and ask how do you get into MLOps?",
+        "response": "Hey! \n\nI've written a few pieces in my Substack:\n\n🔗 https://mikikobazeley.substack.com/p/what-an-mlops-engineer-does\n🔗 https://mikikobazeley.substack.com/p/mikis-hot-takes-in-preparing-for-machine-learning-engineer-interviews-446a779f187d\n🔗 https://mikikobazeley.substack.com/p/mikis-hot-takes-on-mle-interviews-top-advice-resources-part-2-2-2004bb163b17\n\nBut in short, the way I personally started pivoting into MLOps was a combination of:\n\n+ Working on a start-up for sweat equity on the weekends (and nights) trying to help build the ML platform side (this was my 2nd job, I also had a full-time job as a data scientist plus 2 contract roles for a short while teaching/mentoring)\n\n+ Realizing that I didn't really know what I was doing, so started doing a combination of self-teaching & bootcamp (specifically Full-Stack Deep Learning workshop + a bit of Springboard)\n\n+ Studying for interviews & focusing on system design\n\n+ Continue building stuff on the side (left start-up and main job at that point)\n\n+ Continue interview for roles and improving resume\n\n+ Got 3 final interviews, picked Mailchimp offer\n\nI was pivoting from a data scientist role so getting skilled up on the eng/swe skills was the hardest part. Totally process took... 1 yr?",
+        "metadata": {
+            "date": "2024-04-03",
+            "tags": ["career advice", "machine learning operations", "career transition"],
+            "notes": "Advice on transitioning into MLOps"
+        }
+    },
+    {
+        "id": 3,
+        "prompt": "Virtual Coffee Meet for Advice?\n\nHi,\n\nI hope this isn't invasive - but it was fun to see your reply on Substack. I thought it may make more sense to message you here - but would you be open to letting me buy your family's coffee, or your lunch to take a virtual meet or phone call with me?\n\nContext below - but I think you're an ideal person to ask for guidance/advice for where I'm at and where I'm trying to go professionally.\n\nLong story context dump - my background is in sales and technical recruitment. My skills are soft/subjective, but over the last couple months I've been working to change that. (*If you're interested in a secret that only 5 people know*) - my wife and I are expecting, and that has put some high octane into my motivation to build a better career. My 'strategy' is to grow my technical foundation knowledge base to be more effective my role today, and to expand a role I just started with an AI/ML Solutions provider into a Sales Solutions type role.\n\nThat's where I'm at currently - day job still recruiting, and learning as much as I can. Currently my learning development is half educational taking AZ-900 course with the goal of the AZ-305 Solutions, and half conceptual - current landscape/context which is where I found you. Your materials, just resonate.\n\nI have a lot of respect and interest in highly intelligent people - especially ones with that Feynman-esque ability to speak clearly about complex topics.\n\nCertainly this is unorthodox, but hopefully not off-putting or presumptuous to assume you would make the time - BUT if you're open to it, I'd be happy to send you a gift card or buy your lunch or something to have a phone call or Zoom for your time.\n\nIf not, no worries at all, still wish you all the best,\n\n",
+        "response": "Hey! Nice to meet you too!\n\nHappy to chat! My schedule is hectic, so I have about 1-2 weeks between finishing off January stuff before I fly off to India early Feb.\n\nlet's try to find some time before then.",
+        "metadata": {
+            "date": "2024-01-21",
+            "tags": ["career advice", "virtual meeting"],
+            "notes": "Request for a virtual coffee meet for career advice"
+        }
+    },
+    {
+        "id": 4,
+        "prompt": "Hello,\n\nI am reaching out to you as I am passionate about MLOps and aspiring to grow in this field. I have 2 years experience in deploying the model and writing the backend pipelines and would love to know more about these.\n\nConsidering your extensive experience in MLOps, I would greatly appreciate any guidance or advice you can provide. Specifically, I am interested in learning about the best practices, tools, and frameworks that you have found effective in implementing MLOps pipelines, managing model deployments, monitoring and optimizing ML systems, and ensuring reliability and scalability.\n\nI am eager to gain more insights into the challenges and considerations involved in establishing MLOps processes, enabling collaboration between data scientists and operations teams, and integrating ML models into production environments seamlessly.\n\nIf you could spare some time for a brief discussion or recommend any resources, articles, or industry events that you find valuable for someone aspiring to excel in MLOps, I would be immensely grateful.\n\nRegards,\n\n",
+        "response": "MAD Turck: https://mad.firstmark.com/\n\nFirstMark | 2024 MAD (ML/AI/Data) Landscape\nhttps://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning\n\nMLOps: Continuous delivery and automation pipelines in machine learning | Cloud Architecture Center | Google Cloud\nhttps://www.featureform.com/post/measuring-your-ml-platforms-north-star-metrics\n\nMeasuring Your ML Platform's North Star Metrics | FeatureForm",
+        "metadata": {
+            "date": "2023-06-26",
+            "tags": ["career advice", "MLOps", "resources"],
+            "notes": "Inquiry about best practices and resources for MLOps"
+        }
+    },
+    {
+        "id": 5,
+        "prompt": "Hello!\n\nI just saw your YouTube video with Tina Huang regarding MLOps. I'm super interested in getting into the space.\n\nHere's my background:\n\n-AWS And Azure certified in Architecture\n\n-Just pivoting into the Data and DevOps side of things (passed the AI-900 and DP-900 last month)\n\n-Very, very non-traditional (just like you!) Pre-Med in college ages ago...freelance software developer for years.\n\nI just took advantage of some black friday deals for learning more regarding MLOps. Any other tips? May I forward you my resume?\n\n",
+        "response": "Hey, \nGlad to hear you enjoyed it! 😁\n\nWhat stage of searching are you in?\n\nI've included links to most of the resources here: https://www.linkedin.com/posts/mikikobazeley_mlops-darascience-dataops-activity-7133906624473100288-QW0x?utm_source=share&utm_medium=member_desktop\n\nOne tip I would give is that it's pretty easy to spend a ton of money on courses, ebooks, etc.\n\nThe hardest part is translating that investment into real skills and experiences.\n\nSo my best advice would be to try to build a few projects, like end-to-end model pipelines and an example MLOps stack. Publish it on your Github and talk about it on social media.\n\nMake sure to update your socials and resume every time you learn a new skill and build something. Rinse & repeat.",
+        "metadata": {
+            "date": "2023-12-02",
+            "tags": ["career advice", "MLOps", "resources"],
+            "notes": "Request for tips on transitioning into MLOps"
+        }
+    },
+    {
+        "id": 6,
+        "prompt": "Hi,\n\nI am looking for some guidance related to MLOps. Let me know if you can spare 10-15 min. I do not want to bother you with details if you are busy. FYI- you can provide advice in message as well.",
+        "response": "Happy to answer the questions in the chat here!",
+        "metadata": {
+            "date": "2023-09-21",
+            "tags": ["career advice", "MLOps"],
+            "notes": "Request for MLOps guidance"
+        }
+    },
+    {
+        "id": 7,
+        "prompt": "Thank you for the response. Quick background - I am working as Senior data engineer for 10+ years (Started as Data Developer, ETL developer, Now Senior data engineer). I am now enrolled in MMAI (Master of Management in AI) at Smith School of Business at Queens University in Canada. After completing my course I would like to pivot my role towards MLOps. In my current company, I might get promoted to Engineering manager as well by mid of next year. We have data sciences and data engineering teams. I lead data engineering team. This degree will equip me with necessary tools to lead both teams. But I would like to get in MLOps side first. I need your guidance based on your experience. Can I get into MLOps or do I need to work as ML engineer /data scientist first?",
+        "response": "Happy to answer the questions in the chat here!",
+        "metadata": {
+            "date": "2023-09-21",
+            "tags": ["career advice", "MLOps"],
+            "notes": "Follow-up question about transitioning to MLOps"
+        }
+    },
+    {
+        "id": 8,
+        "prompt": "Regarding MLOPS Interview\n\nI have my Interview scheduled for MLOPS Intern position at a start-up named as AI PLANET. I need your valuable guidance to ace this interview please.\n\nYour faithfully,\n\n",
+        "response": "Hi, did they send you a job description or what to expect from the interview?",
+        "metadata": {
+            "date": "2023-07-16",
+            "tags": ["interview advice", "MLOps"],
+            "notes": "Request for guidance on MLOps interview"
+        }
+    },
+    {
+        "id": 9,
+        "prompt": "Actually this interview is gonna be my 3rd round and final round!!! In 2nd round they gave me a practical assessment to complete it contains installation and configuration of MLFLOW and KUBEFLOW on k8s cluster and many more. You can refer this readme file of mine so that you'll get gist of my task\nhttps://github.com/adilshaikh165/ML-OPS\nAnd this is their job description. Actually ML is not my forte. Can you please help me throughout this interview process. My interview is scheduled on coming Friday.",
+        "response": "Gotcha -- rather than going super specific on the advice, let me generally address the \"how will it run\" question --\n\nThe functionality of \"how do things run\" \n1. You need a server that will run whatever jobs -- the pure compute\n2. You need an orchestrator -- Something that will coordinate the job & various components of the job\n3. You need a scheduler -- something that will trigger or kick off the orchestrator to run the job and any of its upstream dependencies.\n\nFor ex: You have a python script that does a bunch of stuff. It needs to run someplace other than your computer presumably.\n\nSo you either need access to a virtual computer or to rent time on someone else's computer that will run the job for you. This is where you hear of serverless, VMs, or hosted containerized services from GCP, AWS, Azure, etc. The offerings depend on how much stuff you want to configure.\n\nThis also means the schedule & orchestrator need to also live somewhere off your computer.\n\nNow something that I need to point out -- you're probably not going to shut-down and restart the infra every time. That would be weird to shut down & restart the vector DB every time and reload it with embeddings (unless that is the exact intent).\n\nIn terms of orchestration and scheduling, usually people use Airflow and Kubernetes if it's a containerized job or application. Airflow and Kubernetes need to be hosted someplace else outside of your computer because they are invoking the scripts & jobs to run.\n\nDoes that make sense?",
+        "metadata": {
+            "date": "2023-07-16",
+            "tags": ["interview advice", "MLOps"],
+            "notes": "Follow-up request for guidance on MLOps interview"
+        }
+    },
+    {
+        "id": 10,
+        "prompt": "Hi,\n\nI have been following you for quite a long time and I'm glad you replied.\n\nActually, I don't have any questions to be specific. I have started my career journey as an MLOPS Engineer at a startup so I needed your guidance.\n\nOkay, so when it comes to asking a question: Our organization is building an open-source python LLM. And my task is to create the infrastructure using terraform (GCP VM) and deploy the Stack components like ETL and Vector Db (weaviate) on top of those VMS in an automated fashion using tools like ansible. So until now I have created the VMs using terraform script, created the docker env using the ansible playbook which is kind of a prerequisite for installing the vector db database. But how is this all gonna happen? What I mean is how a user is gonna invoke my scripts which will in turn create an infrastructure for them?",
+        "response": "Gotcha -- rather than going super specific on the advice, let me generally address the \"how will it run\" question --\n\nThe functionality of \"how do things run\" \n1. You need a server that will run whatever jobs -- the pure compute\n2. You need an orchestrator -- Something that will coordinate the job & various components of the job\n3. You need a scheduler -- something that will trigger or kick off the orchestrator to run the job and any of its upstream dependencies.\n\nFor ex: You have a python script that does a bunch of stuff. It needs to run someplace other than your computer presumably.\n\nSo you either need access to a virtual computer or to rent time on someone else's computer that will run the job for you. This is where you hear of serverless, VMs, or hosted containerized services from GCP, AWS, Azure, etc. The offerings depend on how much stuff you want to configure.\n\nThis also means the schedule & orchestrator need to also live somewhere off your computer.\n\nNow something that I need to point out -- you're probably not going to shut-down and restart the infra every time. That would be weird to shut down & restart the vector DB every time and reload it with embeddings (unless that is the exact intent).\n\nIn terms of orchestration and scheduling, usually people use Airflow and Kubernetes if it's a containerized job or application. Airflow and Kubernetes need to be hosted someplace else outside of your computer because they are invoking the scripts & jobs to run.\n\nDoes that make sense?",
+        "metadata": {
+            "date": "2023-07-16",
+            "tags": ["career advice", "MLOps"],
+            "notes": "Request for guidance on building MLOps infrastructure"
+        }
+    },
+    {
+        "id": 11,
+        "prompt": "Hi,\n\nApologies for disturbing you, I really hope you don't mind me reaching out to you.\n\nOne of the mentors in the DSDJ community mentioned that you maybe able to advise me on transitioning from a Data Engineering role to a Senior machine learning engineer position.\n\nI understand you must be very busy, any advice will be much appreciated.\n\nMany thanks",
+        "response": "Hey,\nNo worries!\n\nAre there specific questions you have or challenges you're running up against?\n\nI've linked some of my blog posts & talks below in case they're useful.\n\nI also do a weekly Happy Hour on Thursdays that streams to Youtube & has a zoom room.\n\n----------------------------------------\nKey blog posts, videos, podcasts I think are useful:\n🔗 https://medium.com/kitchen-sink-data-science/learning-mlops-gradually-for-free-through-blog-posts-podcasts-f83d7621a65c\n\nSpecific talks I've done about MLOps:\n🔗 What to know about MLOps: https://youtu.be/hOxTExANS9M\n🔗 Journey to MLOps: https://youtu.be/dyGDnZr5irQ\n🔗 Chatting with SuperDataScience about MLOps: https://youtu.be/lueTM1Gdpuw\n\nMy 3 part blog posts series on 'What is MLOps'\n🔗 https://medium.com/kitchen-sink-data-science/introducing-the-series-what-is-mlops-feeed4999344\n🔗 https://medium.com/kitchen-sink-data-science/defining-mlops-as-simply-as-possible-what-is-mlops-part-2-ef00c6f6ed59\n🔗 https://medium.com/kitchen-sink-data-science/why-ml-ops-matters-taking-the-oh-sh-t-out-of-mloops-what-is-mlops-part-3-1f9fffe10a00\n\nAnd I list a bunch of resources & links here as well:\n🔗 https://medium.com/kitchen-sink-data-science/mikis-hot-takes-in-preparing-for-machine-learning-engineer-interviews-446a779f187d\n🔗 https://medium.com/kitchen-sink-data-science/mikis-hot-takes-on-mle-interviews-top-advice-resources-part-2-2-2004bb163b17",
+        "metadata": {
+            "date": "2022-10-17",
+            "tags": ["career advice", "transition", "machine learning engineer"],
+            "notes": "Advice on transitioning from Data Engineering to Senior Machine Learning Engineer"
+        }
+    },
+    {
+        "id": 12,
+        "prompt": "Hi,\n\nThank you so much for the reply, I hope you're having a great week so far! 😁\n\nA company has got back to be regarding a position as a 'Senior Machine Learning Engineer', which I was quite surprised to see the response. I think I'm trying to figure out how to deal with the imposter syndrome i.e. Do I have what it takes to fill the position.\n\nThanks for the links to your content, I will certainly sign up to your weekly happy hour!",
+        "response": "of course! 😁 And good luck with your studying!",
+        "metadata": {
+            "date": "2022-10-19",
+            "tags": ["career advice", "imposter syndrome"],
+            "notes": "Follow-up on imposter syndrome regarding a Senior Machine Learning Engineer position"
+        }
+    },
+    {
+        "id": 13,
+        "prompt": "Hi,\n\nIt's great connecting with you!\n\nI'm looking for improving my skills in MLOps and need help from you the resources and path I should be taking for it.",
+        "response": "Hey,\nHave you gotten a chance to check out some of my blog posts?\n\nI've linked them below but I'm curious if there is something specific you're struggling with?\n\n----------------------------------------\nKey blog posts, videos, podcasts I think are useful:\n🔗 https://medium.com/kitchen-sink-data-science/learning-mlops-gradually-for-free-through-blog-posts-podcasts-f83d7621a65c\n\nMy 3 part blog posts series on 'What is MLOps'\n🔗 https://medium.com/kitchen-sink-data-science/introducing-the-series-what-is-mlops-feeed4999344\n🔗 https://medium.com/kitchen-sink-data-science/defining-mlops-as-simply-as-possible-what-is-mlops-part-2-ef00c6f6ed59\n🔗 https://medium.com/kitchen-sink-data-science/why-ml-ops-matters-taking-the-oh-sh-t-out-of-mloops-what-is-mlops-part-3-1f9fffe10a00\n\nAnd I list a bunch of resources & links here as well:\n🔗 https://medium.com/kitchen-sink-data-science/mikis-hot-takes-in-preparing-for-machine-learning-engineer-interviews-446a779f187d\n🔗 https://medium.com/kitchen-sink-data-science/mikis-hot-takes-on-mle-interviews-top-advice-resources-part-2-2-2004bb163b17",
+        "metadata": {
+            "date": "2022-10-17",
+            "tags": ["MLOps", "resources", "skill improvement"],
+            "notes": "Inquiry about improving MLOps skills and resources"
+        }
+    },
+    {
+        "id": 14,
+        "prompt": "Hi,\n\nThanks for the amazing talk you gave in Daliana's podcast. Just had a follow up question on pivoting to MLOps - Do you think any certification is necessary to pivot to production ML jobs for someone with only data analyst/ BI analyst experience?\nAlso, all the best for the new job! 😊",
+        "response": "Hey there!\n\nThanks for the kind words!\n\nRegardless of the certificate, course, degree or workshop, what folks in production ml care about is you can get:\n\n1) A single ML pipeline up and running such that predictions can be served to an internal user, a downstream system, or through a UI or API to external users.\n\n2) A set of pipelines up & running (then maintain them)\n\n3) Mature the pipelines to handle different use cases and architectures\n\nYou don't need to do all these perfectly but you will need to be able to handle some tasks and procedures through code, know how to stitch some tools together, and understand the different problems being solved and factors that impact the pipeline and system.\n\nI think certificates can be helpful in providing a structured learning path but unless they're coupled with actual project and development work, they won't be enough.\n\nThere's a number of ways to get that development experience (personal projects, hackathons focused on building pipelines and systems, volunteering, working at a startup, implementing projects within your existing company) but ultimately your approach is going to require multiple resources and activities.\n\nHope that makes sense!",
+        "metadata": {
+            "date": "2022-10-10",
+            "tags": ["career advice", "MLOps", "certification"],
+            "notes": "Advice on whether certification is necessary for pivoting to MLOps"
+        }
+    },
+    {
+        "id": 15,
+        "prompt": "Thanks a lot! This advice and your talk really helped me get some validation on few things I am working on currently. I really appreciate you taking time to respond especially since I do not have any mentors.\n\nBest",
+        "response": "of course! 😁 And good luck with your studying!",
+        "metadata": {
+            "date": "2022-10-10",
+            "tags": ["gratitude", "career advice"],
+            "notes": "Follow-up gratitude for career advice on MLOps"
+        }
+    },
+    {
+        "id": 16,
+        "prompt": "Great points today at the Happy Hour/ podcast. I am not sure how to differentiate MLOps MLDev ML if at the end you need a model that is operational. ( But I am just an amateur DS wanted to focus on ML)\nI wanted to ask you how much in depth math do you think is necessary for ML?",
+        "response": "For ML research, definitely quite a bit of math, especially if you intend to publish.\nFor ML Ops/Eng, college algebra might be the most. MLE/Ops is so software development focused that it really is about engineering and some cs theory.",
+        "metadata": {
+            "date": "2021-06-01",
+            "tags": ["MLOps", "MLDev", "math"],
+            "notes": "Inquiry about the depth of math needed for ML and MLOps"
+        }
+    },
+    {
+        "id": 17,
+        "prompt": "Thanks for the information. As a first step, it may be easier to brush up on my algebra skills.\nI appreciate the advice.",
+        "response": "of course! 😁 And good luck with your studying!",
+        "metadata": {
+            "date": "2021-06-02",
+            "tags": ["gratitude", "career advice"],
+            "notes": "Follow-up gratitude for advice on the depth of math needed for ML"
+        }
+    },
+    {
+        "id": 18,
+        "prompt": "I saw your post on Tech Ladies in Facebook and I wanted to reach out because I have a somewhat similar background to you. I have a nontraditional background (BA in Sino-linguistics and Chinese) and then I went to a coding bootcamp. I've been working at Stack Overflow as a developer for about 3 years, but I really want to shift more into ML. I am about a year into a very part-time MS program in computational linguistics, so I feel like I'm on the way but I can't get any interviews because I don't have any papers and I don't have a data science background.\nWould you recommend I try to get a data job instead of just coding to move more into ML? I'm about 3/4 of the way through the nanodegree program from Udacity for data analysts and about 1/4 through the deep learning nanodegree (I'm kind of just optimizing which classes best fit with my MS right now so I can stay ahead instead of trying to finish these certifications). Also I'm interested in what the interview process is like when you start looking at ML jobs. Basically any advice is helpful.\nThank you so much for your time and thank you for reaching out!",
+        "response": "Hey there!\n\nSo interesting thing is I don't have any papers or academic research experience. Like zilch -- with that being said I also stayed far away from the research type roles. After a few years of working as a data analyst/data scientist I was definitely over the conversation always being about statistics or algorithms or experimentation.\n\nWhat I do really like is developing ML systems and the infrastructure (pipelines, monitoring, testing, etc) around ML models. So I targeted most of my efforts towards the ML Infra/Ops types of roles. Most of the companies I talked to (9 I interviewed with) really loved that fact that I asked for my next role to be squarely focused on everything except for the data science and ML aspects.\n\nWhat area of ML are you trying to get into? Research or engineering/ops?",
+        "metadata": {
+            "date": "2021-05-06",
+            "tags": ["career advice", "machine learning", "transition"],
+            "notes": "Inquiry about transitioning to ML from a nontraditional background"
+        }
+    },
+    {
+        "id": 19,
+        "prompt": "I'm mostly trying to get into engineering. What are interviews like for ML roles? Are algorithm interviews still a part of it? Or statistics questions maybe?\n\nI think I might still be about a year away from being able to jump into ML, but I'm interested in how I can best prepare myself. So I'm taking the deep learning Udacity course and I'm getting an MS in computational linguistics while working full time as a full stack dev, but I'm interested if there are other things I could or should be looking at to get more practice and prepare myself, particularly for the interview cycles.",
+        "response": "There's 2 types of interviews for ML Engineer roles, which I'd call the FAANG style vs holistic.\n\nFAANG style involves a round of Leetcode DS&A questions, a round or two of Machine Learning & Data Science theory questions, and a round of experimentation/statistical theory. I did badly in those types of interviews and didn't pass the tech screens even spending a 1+ months purely studying DS&A. I figured at a certain point it wasn't really worth it to try to cram for the FAANG style interviews & focused my energies on companies with holistic interviewing processes.\n\nThe holistic style involved a round of live system design (with a take-home component potentially), two rounds of panel interviews: 1 round with 2-3 senior + staff engineers on project & experience walkthrough (focus on tools, system design, best-practices), 1 round with 2-3 senior + principal or director data scientists asking about DS/ML theory & execution. No Leetcode or live coding tech screen. My three offers came from this bucket.\n\nOut of 9 companies, a slight majority did FAANG style or a blend of FAANG & holistic but it's hard to interview in the MLE area. Ultimately it comes down to whether someone has built projects using some of the MLOps & MLE tools and libraries out there.\n\nI think the best prep if you want to go the MLOps/MLE route is to build some end-to-end projects (with feature engineering, model development, serving, monitoring, etc) and supplement with some of the learning material out there like the Full Stack Deep Learning course, case studies, and going deep on specific tools. Even though my friend's startup wasn't a full-time gig, that's what got everyone's attention, because I helped develop the data engineering and model deployment infrastructure and pipelines. I also watched videos from the Stanford ML Systems playlist.",
+        "metadata": {
+            "date": "2021-05-10",
+            "tags": ["career advice", "machine learning", "interviews"],
+            "notes": "Inquiry about preparing for ML engineering interviews"
+        }
+    },
+    {
+        "id": 20,
+        "prompt": "Interesting. Thank you so much for taking the time to respond so thoroughly! I will definitely check out the Stanford ml systems playlist and the full stack deep learning course and make sure I have some end to end projects under my belt. This is really useful- thank you again!",
+        "response": "of course! 😁 And good luck with your studying!",
+        "metadata": {
+            "date": "2021-05-11",
+            "tags": ["gratitude", "career advice"],
+            "notes": "Follow-up gratitude for advice on ML engineering interview preparation"
+        }
+    }
+]
